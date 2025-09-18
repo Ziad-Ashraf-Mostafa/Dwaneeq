@@ -1,7 +1,3 @@
-# Dwanneq
-A modern Personal Finance Tracker built with Python using tkinter, CustomTkinter and matplotlib libraries.
-Manage your expenses, budgets, and statistics with multi-currencies supoort and an elegant UI and customizable theme.
-
 # Dwaneeq - Personal Finance Tracker
 
 **Dwaneeq** is a simple and practical desktop application for managing and tracking personal expenses and budgets.  
