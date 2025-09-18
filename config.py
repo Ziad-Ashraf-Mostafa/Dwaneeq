@@ -628,7 +628,7 @@ current_user_id = "not defined"
 choosed_mode = "dark"
 choosed_theme = "black"
 choosed_colors = Dark_Black
-lang_name = "ar"
+lang_name = "en"
 choosed_lang = LANG[lang_name]
 direction = "rtl"
 

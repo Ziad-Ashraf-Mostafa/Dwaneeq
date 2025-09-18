@@ -6,8 +6,9 @@ from history import History; from stats import Stats; from budget import Budget;
 import config; from config import resource_path; import db; import some_classes
 import os, sys
 
-
-
+# setting the current working directory to the script directory to use relative paths safely
+app_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(app_dir)
 
 
 class NavigationBar(customtkinter.CTkFrame):

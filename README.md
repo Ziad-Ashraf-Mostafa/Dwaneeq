@@ -43,7 +43,30 @@ It is fully built with **Python** using **Tkinter** and **CustomTkinter** for th
 
 ## 🖼️ Screenshots
 
-> i will add them later 🙃
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/home.png)
+
+### Transaction
+![Transaction](screenshots/transaction.png)
+
+### History
+![History](screenshots/history.png)
+
+### Budget
+![Budget](screenshots/budget.png)
+![Budget](screenshots/budget-mini.png)
+
+### Stats
+![Stats](screenshots/stats.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+### Currency Calculato
+![Currency Calculato](screenshots/currencycalculator.png)
 
 ---
 
@@ -61,6 +84,11 @@ Steps to contribute:
 6. Open a Pull Request.
 
 ---
+
+## 📥 Download
+
+You can download the latest executable in form of zipped file from the [Releases page](https://github.com/Ziad-Ashraf-Mostafa/Dwaneeq/releases).
+
 
 ## 📜 License
 
