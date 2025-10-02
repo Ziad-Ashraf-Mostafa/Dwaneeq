@@ -1,7 +1,7 @@
 # Dwaneeq - Personal Finance Tracker
 
 <p align="center">
-  <img src="app_splash.png" alt="Medical Image Segmentation Banner" width="700">
+  <img src="images/app_splash.png" alt="Medical Image Segmentation Banner" width="700">
 </p>
 
 **Dwaneeq** is a simple and practical desktop application for managing and tracking personal expenses and budgets.  
